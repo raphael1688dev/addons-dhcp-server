@@ -1,10 +1,7 @@
 # Home Assistant Add-ons: The official repository
 
 Add-ons for Home Assistant allow you to extend the functionality
-around your Home Assistant setup. These add-ons can consist of an application
-that Home Assistant can integrate with (e.g., a [MQTT broker](/mosquitto/README.md) or [database server](/mariadb/README.md))
-or allow access to your Home Assistant configuration (e.g., via [Samba](/samba/README.md) or using
-the [File Editor](/configurator/README.md)).
+around your Home Assistant setup.
 
 Add-ons can be installed and configured via the Home Assistant frontend on
 systems that have installed Home Assistant.
