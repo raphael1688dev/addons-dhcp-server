@@ -3,7 +3,8 @@ version: 1.5.0r3
 slug: dhcp_server
 name: "DHCP server [IPv4]"
 description: A simple DHCP server
-url: https://home-assistant.io/addons/dhcp_server/
+#url: https://home-assistant.io/addons/dhcp_server/
+url: https://github.com/raphael1688dev/addons-dhcp-server/
 codenotary: notary@home-assistant.io
 advanced: true
 arch:
