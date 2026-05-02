@@ -1,17 +1,18 @@
 ---
-version: 1.5.0r3
+version: 1.5.0r4
 slug: dhcp_server
 name: "DHCP server [IPv4]"
 description: A simple DHCP server
 #url: https://home-assistant.io/addons/dhcp_server/
 url: https://github.com/raphael1688dev/addons-dhcp-server/
-codenotary: notary@home-assistant.io
+#codenotary: notary@home-assistant.io
+codenotary: odenotary@frenck.dev
 advanced: true
 arch:
   - aarch64
   - amd64
 host_network: true
-image: homeassistant/{arch}-addon-dhcp_server
+#image: homeassistant/{arch}-addon-dhcp_server
 options:
   default_lease: 86400
   dns:
