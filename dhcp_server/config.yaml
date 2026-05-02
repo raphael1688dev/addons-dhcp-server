@@ -1,8 +1,8 @@
 ---
-version: 1.5.0r7
+version: 1.5.0r8
 slug: dhcp_server
 name: "DHCP server [IPv4]"
-description: A simple DHCP server
+description: ISC DHCP 4.4.3_p1-r4
 #url: https://home-assistant.io/addons/dhcp_server/
 url: https://github.com/raphael1688dev/addons-dhcp-server/
 #codenotary: notary@home-assistant.io
