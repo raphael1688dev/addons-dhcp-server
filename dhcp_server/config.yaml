@@ -50,4 +50,3 @@ schema:
       subnet: str
 startup: system
 init: false
-stage: deprecated
